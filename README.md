@@ -1,7 +1,7 @@
 👋 Hi, I’m @camdenflater
 
 - 🌱 I’m currently learning SQL and Python programming
-- 👀 I’m interested in any projects using SQL and Python
+- 👀 My current project I'm working on is named 'BikeStores'
 - 📫 How to reach me: crflater@wisc.edu
 
 <!---
